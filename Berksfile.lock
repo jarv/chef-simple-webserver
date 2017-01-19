@@ -1,0 +1,6 @@
+DEPENDENCIES
+  webserver
+    path: site-cookbooks/webserver
+
+GRAPH
+  webserver (1.0.0)
