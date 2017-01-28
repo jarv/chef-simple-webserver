@@ -1,2 +1,4 @@
 .kitchen
 cookbooks/
+.kitchen/
+.kitchen.local.yml
